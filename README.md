@@ -13,7 +13,7 @@ bash install-skills.sh
 Or run directly from GitHub (no clone needed):
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/<you>/dev-setup/main/install-skills.sh)
+bash <(curl -s https://raw.githubusercontent.com/alendamadzic/my-skills/main/install-skills.sh)
 ```
 
 ### Skills installed
