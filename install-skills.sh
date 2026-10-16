@@ -13,7 +13,6 @@ SKILLS=(
   "https://github.com/vercel-labs/agent-skills|vercel-react-best-practices"
   "https://github.com/remotion-dev/skills|remotion-best-practices"
   "https://github.com/shadcn/ui|shadcn"
-  "https://github.com/emilkowalski/skills/emil-design-eng"
 )
 
 echo ""
